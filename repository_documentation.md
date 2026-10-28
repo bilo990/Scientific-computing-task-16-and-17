@@ -1,8 +1,4 @@
-# BIT 2118: Scientific Computing — Tasks 16 & 17
-
-This repository contains individual solutions and documentation for **Task 16 (Numerical Integration)** and **Task 17 (Ordinary Differential Equations - Euler Method)** as specified in the **BIT 2118: Scientific Computing** course project guidelines.
-
----
+Tasks 16 & 17
 
 ## Task 16: Numerical Integration
 
